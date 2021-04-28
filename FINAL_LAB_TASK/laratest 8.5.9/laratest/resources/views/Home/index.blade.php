@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome To Our Digital Diary</h1>
-    
+
 </body>
 </html>
